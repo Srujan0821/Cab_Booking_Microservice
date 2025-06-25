@@ -1,0 +1,4 @@
+config-service = "http://localhost:8888"
+Discovery-server = "http://localhost:8761/eureka"
+user-service = "http://localhost:8081"
+Api-gateway = "http://localhost:8080"
